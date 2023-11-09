@@ -9,7 +9,7 @@
 			<link>http://www.osu.edu/features/</link>
 			<language>en-us</language>
 			<description>Features appearing on The Ohio State University homepage (www.osu.edu)</description>
-			<lastBuildDate>Thu, 09 Nov 2023 16:34:43 -0500</lastBuildDate>
+			<lastBuildDate>Thu, 09 Nov 2023 16:39:08 -0500</lastBuildDate>
 			<image>
 				<title>Ohio State University Features</title>
 				<link>http://www.osu.edu/features/</link>
@@ -19,6 +19,7 @@
 							<pubDate>Thu, 17 Jan 2013 19:00:00 -0500</pubDate>
 
 							<title></title>
+
 
 							<guid>http://www.osu.edu/osumobile</guid>
 							<description><![CDATA[
@@ -32,6 +33,8 @@
 
 							<title></title>
 
+							<link>http://www.osu.edu/osumobile/</link>
+
 							<guid>http://www.osu.edu/osumobile/</guid>
 							<description><![CDATA[
 							<p><img src="http://www.osu.edu/images/rotate/2011/android/thumb.jpg"></p><p>Now on Android!</p>
@@ -43,6 +46,8 @@
 							<pubDate>Thu, 17 Jan 2013 19:00:00 -0500</pubDate>
 
 							<title></title>
+
+							<link>http://osu.edu/O-H-I-O/</link>
 
 							<guid>http://osu.edu/O-H-I-O/</guid>
 							<description><![CDATA[
